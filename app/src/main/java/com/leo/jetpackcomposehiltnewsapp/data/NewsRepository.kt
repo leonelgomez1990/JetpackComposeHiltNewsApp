@@ -1,4 +1,4 @@
-package com.leo.jetpackcomposehiltnewsapp.framework
+package com.leo.jetpackcomposehiltnewsapp.data
 
 import com.leo.jetpackcomposehiltnewsapp.domain.News
 

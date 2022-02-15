@@ -1,4 +1,4 @@
-package com.leo.jetpackcomposehiltnewsapp.data
+package com.leo.jetpackcomposehiltnewsapp.framework
 
 import com.leo.jetpackcomposehiltnewsapp.domain.NewsApiResponse
 import retrofit2.Response
