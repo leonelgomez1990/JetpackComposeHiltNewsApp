@@ -1,4 +1,6 @@
-package com.leo.jetpackcomposehiltnewsapp.domain
+package com.leo.jetpackcomposehiltnewsapp.framework.entities
+
+import com.leo.jetpackcomposehiltnewsapp.domain.News
 
 class NewsApiResponse {
     val status: String? = null

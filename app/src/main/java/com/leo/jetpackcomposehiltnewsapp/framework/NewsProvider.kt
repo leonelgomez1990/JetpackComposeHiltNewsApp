@@ -1,6 +1,6 @@
 package com.leo.jetpackcomposehiltnewsapp.framework
 
-import com.leo.jetpackcomposehiltnewsapp.domain.NewsApiResponse
+import com.leo.jetpackcomposehiltnewsapp.framework.entities.NewsApiResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
